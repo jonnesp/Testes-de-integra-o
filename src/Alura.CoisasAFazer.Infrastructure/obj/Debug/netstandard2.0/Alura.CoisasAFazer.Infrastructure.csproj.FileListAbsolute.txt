@@ -10,3 +10,15 @@ C:\Users\copacabana_alura\Source\Repos\testes-integracao\src\Alura.CoisasAFazer.
 C:\Users\copacabana_alura\Source\Repos\testes-integracao\src\Alura.CoisasAFazer.Infrastructure\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Infrastructure.csproj.CopyComplete
 C:\Users\copacabana_alura\Source\Repos\testes-integracao\src\Alura.CoisasAFazer.Infrastructure\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Infrastructure.dll
 C:\Users\copacabana_alura\Source\Repos\testes-integracao\src\Alura.CoisasAFazer.Infrastructure\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Infrastructure.pdb
+C:\C#\Testes de integração\testes-integracao.projeto-inicial\testes-integracao\src\Alura.CoisasAFazer.Infrastructure\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Infrastructure.deps.json
+C:\C#\Testes de integração\testes-integracao.projeto-inicial\testes-integracao\src\Alura.CoisasAFazer.Infrastructure\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Infrastructure.dll
+C:\C#\Testes de integração\testes-integracao.projeto-inicial\testes-integracao\src\Alura.CoisasAFazer.Infrastructure\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Infrastructure.pdb
+C:\C#\Testes de integração\testes-integracao.projeto-inicial\testes-integracao\src\Alura.CoisasAFazer.Infrastructure\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Core.dll
+C:\C#\Testes de integração\testes-integracao.projeto-inicial\testes-integracao\src\Alura.CoisasAFazer.Infrastructure\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Core.pdb
+C:\C#\Testes de integração\testes-integracao.projeto-inicial\testes-integracao\src\Alura.CoisasAFazer.Infrastructure\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Infrastructure.csproj.AssemblyReference.cache
+C:\C#\Testes de integração\testes-integracao.projeto-inicial\testes-integracao\src\Alura.CoisasAFazer.Infrastructure\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Infrastructure.AssemblyInfoInputs.cache
+C:\C#\Testes de integração\testes-integracao.projeto-inicial\testes-integracao\src\Alura.CoisasAFazer.Infrastructure\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Infrastructure.AssemblyInfo.cs
+C:\C#\Testes de integração\testes-integracao.projeto-inicial\testes-integracao\src\Alura.CoisasAFazer.Infrastructure\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Infrastructure.csproj.CoreCompileInputs.cache
+C:\C#\Testes de integração\testes-integracao.projeto-inicial\testes-integracao\src\Alura.CoisasAFazer.Infrastructure\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Infrastructure.csproj.CopyComplete
+C:\C#\Testes de integração\testes-integracao.projeto-inicial\testes-integracao\src\Alura.CoisasAFazer.Infrastructure\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Infrastructure.dll
+C:\C#\Testes de integração\testes-integracao.projeto-inicial\testes-integracao\src\Alura.CoisasAFazer.Infrastructure\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Infrastructure.pdb
